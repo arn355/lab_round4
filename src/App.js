@@ -1,21 +1,24 @@
-import logo from './logo.svg';
+import logo from './linux.svg';
 import './App.css';
 
 function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
+        <p className="Flag">flag4 =&gt; <code>02b27874</code></p>
+        <div className='img-container'>
+          <img src={logo} className="App-logo" alt="logo" />
+          <img src='https://seeklogo.com/images/S/shell-logo-19A7AB5D69-seeklogo.com.png' className='shell'/>
+        </div>
         <p>
-          Edit <code>src/App.js</code> and save to reload.
+          <code>milf:8e0bb808a49d482001a8150f4710f513</code>
         </p>
         <a
           className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
+          href="https://searchsecurity.techtarget.com/definition/Secure-Shell"
           rel="noopener noreferrer"
         >
-          Learn React
+          Learn SSH
         </a>
       </header>
     </div>

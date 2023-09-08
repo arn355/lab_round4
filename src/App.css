@@ -32,11 +32,7 @@
   bottom: 0;
   right: 0;
   font-size: 10px;
-}
-
-.App-link:hover {
-  opacity: 0.6;
-  transition: 0.3s;
+  cursor: default;
 }
 
 .Flag {

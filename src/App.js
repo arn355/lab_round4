@@ -11,6 +11,7 @@ function App() {
           <img src='https://seeklogo.com/images/S/shell-logo-19A7AB5D69-seeklogo.com.png' className='shell'/>
         </div>
         <p>
+          We need to fix the errors on 10.22.5.10! <br/><hr/>
           <code>milf:8e0bb808a49d482001a8150f4710f513</code>
         </p>
         <a
